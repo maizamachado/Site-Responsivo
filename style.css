@@ -1,0 +1,57 @@
+
+body{
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+}
+.gradient{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(183,9,231,1) 0%, rgba(0,212,255,1) 100%);
+}
+.page-header{
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: #fff;
+}
+.col-md-6{
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+}
+.Galeria{
+    margin-top: 10px;
+    font-family:'Poppins';
+    color:purple
+}
+.row img{
+    border-radius: 8%;
+}
+footer{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(183,9,231,1) 0%, rgba(0,212,255,1) 100%);
+}
+a:link{
+    color: #fff;
+    text-decoration: none;
+}
+a:visited{
+    color: #fff;
+    text-decoration: none;
+}
+a:hover{
+    color: #fff;
+    text-decoration: none;
+}
+a:active{
+    color: #fff;
+    text-decoration: none;
+}
+.carousel{
+    margin-top: 10px;
+    width: 40%; 
+    margin-left: 30%;
+    margin-bottom: 10px;
+}
+       
+
+   
+   
+
